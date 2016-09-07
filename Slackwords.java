@@ -149,13 +149,13 @@ public class Slackwords {
           "9. \"That's Okay\"\n" +
           "\n" +
           "This is one of the most dangerous statements that a woman can say to a man. \"\n" +
-          "That's Okay,” means that she wants to think long and hard before paying you retributions for whatever it is that you have done. \n" +
+          "That's Okay, means that she wants to think long and hard before paying you retributions for whatever it is that you have done. \n" +
           "\"That's Okay\" is often used with the word \"Fine\" and used in conjunction with a raised eyebrow and \"Go Ahead\". \n" +
           "At some point in the near future when she has plotted and planned, you are going to be in some mighty big trouble.\n" +
           "\n" +
           "10. \"Please Do\"\n" +
           "\n" +
-          "This is not a statement it’s an offer. \n" +
+          "This is not a statement it' an offer. \n" +
           "A woman is giving you the chance to come up with whatever excuse or reason you have for doing \n" +
           "whatever it is that you have done. You have a fair chance to tell the truth, so be careful and you shouldn't get a \"That's Okay\".\n" +
           "\n" +
