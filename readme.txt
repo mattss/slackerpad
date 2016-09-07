@@ -17,9 +17,14 @@ You may notice that when you try to 'Open' a text file nothing appears
 to happen. This is the beauty of Slackpad.
 
 In 'Slacker' mode, keypresses are not interpreted in the normal way.
-Instead of transferring the contents of your typing into the main window, 
+Instead of transferring the contents of your typing into the main window,
 Slackpad writes out the contents of the Text file which you previously
 'Opened' - making it look as if you are typing the whole thing
 out in realtime with no work or thought required on your part!
 
 Try it now!
+
+ > git clone git@github.com:mattss/slackerpad.git
+ > cd slackerpad
+ > javac Slackpad.java
+ > java Slackpad
